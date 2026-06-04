@@ -1,38 +1,90 @@
 # Specularis Hub
 
-The central navigation hub for Specularis Capital.
+**Central navigation hub for Specularis Capital.**
 
-Specularis Capital is a personal research and operating system built around five forms of capital:
+Specularis Capital is a personal research and operating system focused on financial intelligence, AI workflows, learning systems, and life optimization.
 
-- Financial Capital
-- Intelligence Capital
-- Learning Capital
-- Physical Capital
-- System Capital
+## Mission
 
-## Core Repositories
+To build a long-term public research archive that compounds across finance, AI, learning, and personal discipline.
 
-### Finance
+## Capital Architecture
+
+Specularis Capital is organized around five forms of capital:
+
+| Capital Type | Focus Area | Repository |
+|---|---|---|
+| Financial Capital | Markets, trading systems, investing, risk frameworks | [Specularis Finance Lab](https://github.com/TPCapital/specularis-finance-lab) |
+| Intelligence Capital | AI tools, agents, automation, productivity systems | [Specularis AI Lab](https://github.com/TPCapital/specularis-ai-lab) |
+| Learning Capital | English learning, exams, skill acquisition, cognitive systems | [Specularis Learning Lab](https://github.com/TPCapital/specularis-learning-lab) |
+| Physical Capital | Fitness, health, energy management, lifestyle optimization | [Specularis Life Lab](https://github.com/TPCapital/specularis-life-lab) |
+| System Capital | Knowledge infrastructure and long-term operating systems | [Specularis Hub](https://github.com/TPCapital/specularis-hub) |
+
+## Active Projects
+
+| Project | Description | Status |
+|---|---|---|
+| [Specularis Market Intelligence](https://github.com/TPCapital/specularis-market-intelligence) | AI-assisted market dashboard for news flow, market structure, and trading signal research. | Active |
+| [Specularis Trading Model](https://github.com/TPCapital/specularis-trading-model) | Structured trading model training system for gold, options, futures, and risk management. | Active |
+
+## Repository Map
+
+### Core Labs
+
+- [Specularis Finance Lab](https://github.com/TPCapital/specularis-finance-lab)  
+  Financial markets, trading systems, market intelligence, options, futures, and risk frameworks.
+
+- [Specularis AI Lab](https://github.com/TPCapital/specularis-ai-lab)  
+  AI tools, agents, automation workflows, coding assistants, and productivity systems.
+
+- [Specularis Learning Lab](https://github.com/TPCapital/specularis-learning-lab)  
+  English learning, exam preparation, skill acquisition, and cognitive systems.
+
+- [Specularis Life Lab](https://github.com/TPCapital/specularis-life-lab)  
+  Fitness, health, energy management, lifestyle optimization, and personal discipline.
+
+### Active Systems
 
 - [Specularis Market Intelligence](https://github.com/TPCapital/specularis-market-intelligence)  
-  AI-assisted market dashboard, market structure tracking, news flow, and trading signal research.
+  Market dashboard and intelligence system.
 
 - [Specularis Trading Model](https://github.com/TPCapital/specularis-trading-model)  
-  Structured trading model training system for gold, options, futures, and risk management.
+  Trading model training and execution discipline system.
 
-### Resource Labs
+## Operating Principles
 
-- Specularis Finance Lab  
-  Curated resources for financial markets, trading systems, investing, and risk frameworks.
+- Curate before collecting.
+- Build systems, not scattered notes.
+- Preserve original sources and respect licenses.
+- Turn tools into workflows.
+- Turn workflows into long-term assets.
 
-- Specularis AI Lab  
-  Curated resources for AI tools, agents, automation, coding assistants, and productivity systems.
+## Roadmap
 
-- Specularis Learning Lab  
-  Curated resources for English learning, skill acquisition, exams, and cognitive systems.
+### Phase 1 — Foundation
 
-- Specularis Life Lab  
-  Curated resources for fitness, health, energy management, and life optimization.
+- Build GitHub profile README.
+- Create the Specularis repository matrix.
+- Establish core labs and navigation hub.
+- Standardize repository descriptions and README structures.
+
+### Phase 2 — Resource Index
+
+- Add curated resources to each lab.
+- Classify tools by category, use case, and relevance.
+- Record licenses and source links clearly.
+
+### Phase 3 — Research Notes
+
+- Add personal evaluation notes.
+- Build comparison frameworks.
+- Connect external tools with internal workflows.
+
+### Phase 4 — System Integration
+
+- Link finance, AI, learning, and life systems.
+- Develop public-facing research archives.
+- Build reusable templates and frameworks.
 
 ## Philosophy
 

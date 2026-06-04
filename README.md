@@ -27,6 +27,15 @@ Specularis Capital is organized around five forms of capital:
 | [Specularis Market Intelligence](https://github.com/TPCapital/specularis-market-intelligence) | AI-assisted market dashboard for news flow, market structure, and trading signal research. | Active |
 | [Specularis Trading Model](https://github.com/TPCapital/specularis-trading-model) | Structured trading model training system for gold, options, futures, and risk management. | Active |
 
+## Core Lab Status
+
+| Lab | Capital Type | Status |
+|---|---|---|
+| [Specularis Finance Lab](https://github.com/TPCapital/specularis-finance-lab) | Financial Capital | Initial structure completed |
+| [Specularis AI Lab](https://github.com/TPCapital/specularis-ai-lab) | Intelligence Capital | Initial structure completed |
+| [Specularis Learning Lab](https://github.com/TPCapital/specularis-learning-lab) | Learning Capital | Initial structure completed |
+| [Specularis Life Lab](https://github.com/TPCapital/specularis-life-lab) | Physical Capital | Initial structure completed |
+
 ## Repository Map
 
 ### Core Labs
